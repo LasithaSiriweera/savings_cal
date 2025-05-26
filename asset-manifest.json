@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/savings_cal/static/css/main.e4e69eda.css",
+    "main.js": "/github.io/savings_cal/static/js/main.63aa1586.js",
+    "index.html": "/github.io/savings_cal/index.html",
+    "main.e4e69eda.css.map": "/github.io/savings_cal/static/css/main.e4e69eda.css.map",
+    "main.63aa1586.js.map": "/github.io/savings_cal/static/js/main.63aa1586.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4e69eda.css",
+    "static/js/main.63aa1586.js"
+  ]
+}
