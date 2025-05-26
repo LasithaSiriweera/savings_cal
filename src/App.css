@@ -1,0 +1,21 @@
+.App {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 1rem;
+}
+
+input, select {
+  display: block;
+  width: 100%;
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+}
+
+button {
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
